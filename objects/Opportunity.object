@@ -269,7 +269,7 @@
         <type>Picklist</type>
         <valueSet>
             <restricted>true</restricted>
-            <valueSetName>Product</valueSetName>
+            <valueSetName>Product_1</valueSetName>
         </valueSet>
     </fields>
     <fields>
