@@ -5,7 +5,7 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Product_1</members>
+        <members>Product</members>
         <name>GlobalValueSet</name>
     </types>
     <types>
