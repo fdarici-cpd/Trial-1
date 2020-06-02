@@ -35,6 +35,11 @@
         <default>false</default>
         <label>P7</label>
     </customValue>
+    <customValue>
+        <fullName>P8</fullName>
+        <default>false</default>
+        <label>P8</label>
+    </customValue>
     <masterLabel>Product</masterLabel>
     <sorted>false</sorted>
 </GlobalValueSet>
