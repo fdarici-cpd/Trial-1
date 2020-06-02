@@ -327,6 +327,35 @@
         </filters>
         <label>Won</label>
     </listViews>
+    <recordTypes>
+        <fullName>RT_1</fullName>
+        <active>true</active>
+        <businessProcess>SP1</businessProcess>
+        <label>RT 1</label>
+        <picklistValues>
+            <picklist>Product__c</picklist>
+            <values>
+                <fullName>P1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P4</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P5</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>OPPORTUNITY.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
