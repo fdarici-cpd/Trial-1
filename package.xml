@@ -10,6 +10,7 @@
     </types>
     <types>
         <members>Opportunity.RT_1</members>
+        <members>Opportunity.RT_2</members>
         <name>RecordType</name>
     </types>
     <version>48.0</version>
