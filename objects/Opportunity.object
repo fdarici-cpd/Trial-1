@@ -260,6 +260,7 @@
     </fields>
     <fields>
         <fullName>Product__c</fullName>
+        <description>Test</description>
         <externalId>false</externalId>
         <label>Product</label>
         <required>false</required>
