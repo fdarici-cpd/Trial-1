@@ -40,6 +40,16 @@
         <default>false</default>
         <label>P8</label>
     </customValue>
+    <customValue>
+        <fullName>P9</fullName>
+        <default>false</default>
+        <label>P9</label>
+    </customValue>
+    <customValue>
+        <fullName>P10</fullName>
+        <default>false</default>
+        <label>P10</label>
+    </customValue>
     <masterLabel>Product</masterLabel>
     <sorted>false</sorted>
 </GlobalValueSet>
