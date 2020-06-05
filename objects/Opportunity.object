@@ -390,10 +390,6 @@
         <picklistValues>
             <picklist>Product__c</picklist>
             <values>
-                <fullName>P1</fullName>
-                <default>false</default>
-            </values>
-            <values>
                 <fullName>P10</fullName>
                 <default>false</default>
             </values>
@@ -402,19 +398,15 @@
                 <default>false</default>
             </values>
             <values>
-                <fullName>P3</fullName>
-                <default>false</default>
-            </values>
-            <values>
                 <fullName>P4</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>P5</fullName>
+                <fullName>P6</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>P9</fullName>
+                <fullName>P8</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
@@ -450,23 +442,15 @@
                 <default>false</default>
             </values>
             <values>
-                <fullName>P10</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>P2</fullName>
-                <default>false</default>
-            </values>
-            <values>
                 <fullName>P3</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>P4</fullName>
+                <fullName>P5</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>P5</fullName>
+                <fullName>P7</fullName>
                 <default>false</default>
             </values>
             <values>
