@@ -6,10 +6,6 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Product</members>
-        <name>GlobalValueSet</name>
-    </types>
-    <types>
         <members>Opportunity.RT_1</members>
         <members>Opportunity.RT_2</members>
         <name>RecordType</name>
