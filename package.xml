@@ -4,5 +4,9 @@
         <members>Copado_Test__c.CS_Field1__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Copado_Test__c</members>
+        <name>CustomObject</name>
+    </types>
     <version>48.0</version>
 </Package>
