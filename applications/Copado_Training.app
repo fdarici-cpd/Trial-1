@@ -94,7 +94,7 @@
         <type>Flexipage</type>
         <profile>Admin</profile>
     </profileActionOverrides>
-    <profileActionOverrides>
+        <profileActionOverrides>
         <actionName>View</actionName>
         <content>Account_Record_Page</content>
         <formFactor>Small</formFactor>
