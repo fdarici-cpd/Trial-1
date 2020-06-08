@@ -259,6 +259,10 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Jigsaw</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
         <fullName>Name</fullName>
         <trackFeedHistory>true</trackFeedHistory>
     </fields>
@@ -310,6 +314,10 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>SicDesc</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
         <fullName>Site</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -358,6 +366,7 @@
         </filters>
         <label>New This Week</label>
     </listViews>
+    <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
     <recordTypes>
         <fullName>Test</fullName>
         <active>true</active>
