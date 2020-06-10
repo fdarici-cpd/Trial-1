@@ -5,7 +5,7 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>copado__User_Story_Commit__c-en_US</members>
+        <members>copado__User_Story__c-en_US</members>
         <name>CustomObjectTranslation</name>
     </types>
     <version>48.0</version>
