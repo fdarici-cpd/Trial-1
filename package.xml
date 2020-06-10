@@ -4,5 +4,9 @@
         <members>copado__User_Story__c-en_US</members>
         <name>CustomObjectTranslation</name>
     </types>
+    <types>
+        <members>copado__User_Story__c.copado__Add_Metadata</members>
+        <name>WebLink</name>
+    </types>
     <version>48.0</version>
 </Package>
