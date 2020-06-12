@@ -599,7 +599,7 @@
     </classAccesses>
     <custom>false</custom>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>A1__c.Field_2__c</field>
         <readable>true</readable>
     </fieldPermissions>
