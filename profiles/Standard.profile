@@ -603,6 +603,7 @@
         <enabled>false</enabled>
     </classAccesses>
     <custom>false</custom>
+    <description>Standard User</description>
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.AccountNumber</field>
