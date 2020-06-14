@@ -242,6 +242,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>BP_Test_1__c</fullName>
+        <externalId>false</externalId>
+        <label>BP Test 1</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Percent</type>
+    </fields>
+    <fields>
         <fullName>BP_Test__c</fullName>
         <externalId>false</externalId>
         <label>BP Test</label>
