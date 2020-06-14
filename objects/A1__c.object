@@ -189,6 +189,14 @@
         <type>Email</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Field_5__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 5</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
     <label>A1</label>
     <nameField>
         <label>A1 Name</label>
