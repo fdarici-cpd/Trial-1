@@ -592,6 +592,11 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>A1__c.F2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>A1__c.Field_1__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -10886,6 +10891,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ManageTranslation</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ManageUnlistedGroups</name>
     </userPermissions>
     <userPermissions>
@@ -10967,6 +10976,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ShowCompanyNameAsUserBadge</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>SkipIdentityConfirmation</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
