@@ -610,6 +610,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>A1__c.F3__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>A1__c.Field_1__c</field>
         <readable>true</readable>
     </fieldPermissions>
