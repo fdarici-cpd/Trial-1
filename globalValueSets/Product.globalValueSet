@@ -46,8 +46,14 @@
         <label>P9</label>
     </customValue>
     <customValue>
+        <fullName>P11</fullName>
+        <default>false</default>
+        <label>P11</label>
+    </customValue>
+    <customValue>
         <fullName>P10</fullName>
         <default>false</default>
+        <isActive>false</isActive>
         <label>P10</label>
     </customValue>
     <masterLabel>Product</masterLabel>
