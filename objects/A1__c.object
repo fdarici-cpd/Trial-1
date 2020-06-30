@@ -162,7 +162,18 @@
         <type>Phone</type>
     </fields>
     <fields>
+        <fullName>F2__c</fullName>
+        <displayLocationInDecimal>false</displayLocationInDecimal>
+        <externalId>false</externalId>
+        <label>F2</label>
+        <required>true</required>
+        <scale>1</scale>
+        <trackTrending>false</trackTrending>
+        <type>Location</type>
+    </fields>
+    <fields>
         <fullName>F3__c</fullName>
+        <description>F3</description>
         <externalId>false</externalId>
         <label>F3</label>
         <required>false</required>
