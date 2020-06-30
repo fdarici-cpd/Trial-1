@@ -7553,10 +7553,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Opportunity-Opportunity Layout</layout>
-        <recordType>Opportunity.RT_1</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-Opportunity Layout</layout>
         <recordType>Opportunity.RT_2</recordType>
     </layoutAssignments>
     <layoutAssignments>
