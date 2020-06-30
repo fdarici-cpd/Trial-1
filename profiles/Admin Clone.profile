@@ -131,22 +131,6 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>AccountAutomations</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>AccountAutomationsTest</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>AccountOperations</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>AccountOperationsTest</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>AppleWatch</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -639,16 +623,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>A1__c.F4__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>A1__c.F5__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>A1__c.Field_1__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -670,11 +644,6 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>A1__c.Field_5__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>A1__c.Field_6__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1381,11 +1350,6 @@
         <editable>true</editable>
         <field>Contact.Jigsaw</field>
         <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Contact.LFNB_Role__c</field>
-        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -9710,10 +9674,6 @@
         <object>copado__User_Story__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
-    <pageAccesses>
-        <apexPage>HelloWorld</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
     <pageAccesses>
         <apexPage>SelectInspectionPage</apexPage>
         <enabled>true</enabled>
