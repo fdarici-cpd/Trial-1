@@ -157,7 +157,7 @@
         <fullName>F1__c</fullName>
         <externalId>false</externalId>
         <label>F1</label>
-        <required>false</required>
+        <required>true</required>
         <trackTrending>false</trackTrending>
         <type>Phone</type>
     </fields>
