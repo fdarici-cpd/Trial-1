@@ -7429,9 +7429,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
-        <layout>A1__c-A1 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>A2__c-A2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
