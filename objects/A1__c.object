@@ -184,11 +184,6 @@
                     <label>B</label>
                 </value>
                 <value>
-                    <fullName>C</fullName>
-                    <default>false</default>
-                    <label>C</label>
-                </value>
-                <value>
                     <fullName>D</fullName>
                     <default>false</default>
                     <label>D</label>
