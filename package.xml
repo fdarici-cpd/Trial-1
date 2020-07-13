@@ -8,5 +8,10 @@
         <members>Opportunity</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>Opportunity.AllOpportunities</members>
+        <members>Opportunity.ClosingNextMonth</members>
+        <name>ListView</name>
+    </types>
     <version>48.0</version>
 </Package>
