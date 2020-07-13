@@ -245,6 +245,7 @@
     </fields>
     <fields>
         <fullName>Description</fullName>
+        <description>Description</description>
         <trackFeedHistory>false</trackFeedHistory>
         <trackTrending>false</trackTrending>
     </fields>
