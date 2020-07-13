@@ -4,5 +4,9 @@
         <members>Opportunity.Description</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Opportunity</members>
+        <name>CustomObject</name>
+    </types>
     <version>48.0</version>
 </Package>
