@@ -336,12 +336,24 @@
     </fields>
     <listViews>
         <fullName>AllOpportunities</fullName>
-        <filterScope>Everything</filterScope>
+        <columns>OPPORTUNITY.NAME</columns>
+        <columns>ACCOUNT.NAME</columns>
+        <columns>OPPORTUNITY.AMOUNT</columns>
+        <columns>OPPORTUNITY.CLOSE_DATE</columns>
+        <columns>OPPORTUNITY.STAGE_NAME</columns>
+        <columns>CORE.USERS.ALIAS</columns>
+        <filterScope>Team</filterScope>
         <label>All Opportunities</label>
     </listViews>
     <listViews>
         <fullName>ClosingNextMonth</fullName>
-        <filterScope>Everything</filterScope>
+        <columns>OPPORTUNITY.NAME</columns>
+        <columns>ACCOUNT.NAME</columns>
+        <columns>OPPORTUNITY.AMOUNT</columns>
+        <columns>OPPORTUNITY.CLOSE_DATE</columns>
+        <columns>OPPORTUNITY.STAGE_NAME</columns>
+        <columns>CORE.USERS.ALIAS</columns>
+        <filterScope>Mine</filterScope>
         <filters>
             <field>OPPORTUNITY.CLOSED</field>
             <operation>equals</operation>
@@ -409,6 +421,7 @@
         </filters>
         <label>Won</label>
     </listViews>
+    <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
     <recordTypes>
         <fullName>RT_1</fullName>
         <active>true</active>
