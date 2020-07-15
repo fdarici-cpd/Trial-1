@@ -5,6 +5,10 @@
         <name>GlobalValueSet</name>
     </types>
     <types>
+        <members>Brand-es</members>
+        <name>GlobalValueSetTranslation</name>
+    </types>
+    <types>
         <members>en_US</members>
         <members>es</members>
         <name>Translations</name>
