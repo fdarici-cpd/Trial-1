@@ -5,11 +5,7 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>A1__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>A1__c-en_US</members>
+        <members>A1__c-es</members>
         <name>CustomObjectTranslation</name>
     </types>
     <version>48.0</version>
