@@ -5,6 +5,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>A1__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>A1__c-en_US</members>
         <name>CustomObjectTranslation</name>
     </types>
