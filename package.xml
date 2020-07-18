@@ -5,8 +5,8 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>es</members>
-        <name>Translations</name>
+        <members>A1__c-en_US</members>
+        <name>CustomObjectTranslation</name>
     </types>
     <version>48.0</version>
 </Package>
