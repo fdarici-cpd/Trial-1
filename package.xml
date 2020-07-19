@@ -4,9 +4,5 @@
         <members>Copado_User_Story_Changes</members>
         <name>Flow</name>
     </types>
-    <types>
-        <members>copado__User_Story__c.US_Changes</members>
-        <name>WorkflowAlert</name>
-    </types>
     <version>48.0</version>
 </Package>
