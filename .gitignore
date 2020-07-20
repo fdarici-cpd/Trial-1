@@ -15,7 +15,7 @@ installedPackages/*
 #It is recommended that you ignore managed components that cannot be modified 
 #since there is no need to track them in Git, like for example:
 
-*copado__*
+#*copado__*
 classes/copado__*
 triggers/copado__*
 pages/copado__*
