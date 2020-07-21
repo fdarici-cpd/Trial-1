@@ -2,6 +2,10 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>A4__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>A4__c</members>
         <name>SharingRules</name>
     </types>
     <version>48.0</version>
