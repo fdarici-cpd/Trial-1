@@ -5,5 +5,9 @@
         <members>MOA_Region.West_Palm_Beach</members>
         <name>Territory2</name>
     </types>
+    <types>
+        <members>MOA_Region</members>
+        <name>Territory2Model</name>
+    </types>
     <version>48.0</version>
 </Package>
