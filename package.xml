@@ -4,7 +4,6 @@
         <members>Territory2.AccountAccessLevel</members>
         <members>Territory2.CaseAccessLevel</members>
         <members>Territory2.ContactAccessLevel</members>
-        <members>Territory2.CurrencyIsoCode</members>
         <members>Territory2.Description</members>
         <members>Territory2.ForecastUserId</members>
         <members>Territory2.Name</members>
