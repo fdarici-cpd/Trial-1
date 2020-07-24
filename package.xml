@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>Territory2.AccountAccessLevel</members>
+        <members>Territory2.CaseAccessLevel</members>
+        <members>Territory2.ContactAccessLevel</members>
+        <members>Territory2.CurrencyIsoCode</members>
+        <members>Territory2.Description</members>
+        <members>Territory2.ForecastUserId</members>
+        <members>Territory2.Name</members>
+        <members>Territory2.OpportunityAccessLevel</members>
+        <members>Territory2.ParentTerritory2Id</members>
+        <members>Territory2.Territory2ModelId</members>
+        <members>Territory2.Territory2TypeId</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Territory2</members>
+        <members>Territory2Model</members>
+        <members>UserTerritory2Association</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Territory2-Territory Layout</members>
+        <members>Territory2Model-Territory Model Layout</members>
+        <members>Territory2Type-Territory Type Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>MOA_Region.Southern</members>
         <members>MOA_Region.West_Palm_Beach</members>
         <name>Territory2</name>
@@ -8,6 +34,14 @@
     <types>
         <members>MOA_Region</members>
         <name>Territory2Model</name>
+    </types>
+    <types>
+        <members>Territory</members>
+        <name>Territory2Type</name>
+    </types>
+    <types>
+        <members>Territory2</members>
+        <name>Settings</name>
     </types>
     <version>48.0</version>
 </Package>
