@@ -4,5 +4,13 @@
         <members>MOA_Region.North1_Florida</members>
         <name>Territory2</name>
     </types>
+    <types>
+        <members>MOA_Region</members>
+        <name>Territory2Model</name>
+    </types>
+    <types>
+        <members>Territory</members>
+        <name>Territory2Type</name>
+    </types>
     <version>48.0</version>
 </Package>
