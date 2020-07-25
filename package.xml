@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>Territory2-Territory Layout</members>
+        <members>Territory2Model-Territory Model Layout</members>
+        <members>Territory2Type-Territory Type Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>MOA_Region.North1_Florida</members>
         <members>MOA_Region.South_Florida</members>
         <members>MOA_Region.Southern</members>
