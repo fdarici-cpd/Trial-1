@@ -315,6 +315,11 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Territory2Id</fullName>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>Test__c</fullName>
         <externalId>false</externalId>
         <label>Test</label>
