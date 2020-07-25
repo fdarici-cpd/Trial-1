@@ -2,6 +2,8 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>MOA_Region.North1_Florida</members>
+        <members>MOA_Region.South_Florida</members>
+        <members>MOA_Region.Southern</members>
         <name>Territory2</name>
     </types>
     <types>
