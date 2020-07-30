@@ -549,6 +549,7 @@ CASE( Dreamforce__c,
         </filters>
         <label>New This Week</label>
     </listViews>
+    <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
     <recordTypes>
         <fullName>Business</fullName>
         <active>true</active>
@@ -677,6 +678,12 @@ CASE( Dreamforce__c,
         <searchResultsAdditionalFields>ACCOUNT.OWNER.LAST_NAME</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
+    <validationRules>
+        <fullName>V1</fullName>
+        <active>true</active>
+        <errorConditionFormula>1=2</errorConditionFormula>
+        <errorMessage>English</errorMessage>
+    </validationRules>
     <webLinks>
         <fullName>GoogleMaps</fullName>
         <availability>online</availability>
