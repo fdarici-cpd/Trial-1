@@ -44,7 +44,9 @@
     </actionOverrides>
     <actionOverrides>
         <actionName>Edit</actionName>
-        <type>Default</type>
+        <content>TIMBASURVEYS__RelatedSurveys</content>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Scontrol</type>
     </actionOverrides>
     <actionOverrides>
         <actionName>Edit</actionName>
@@ -651,20 +653,20 @@
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.SITE</customTabListAdditionalFields>
-        <customTabListAdditionalFields>SAP_Account__c</customTabListAdditionalFields>
-        <customTabListAdditionalFields>ACCOUNT.ADDRESS1_CITY</customTabListAdditionalFields>
+        <customTabListAdditionalFields>ACCOUNT.TYPE</customTabListAdditionalFields>
+        <customTabListAdditionalFields>ACCOUNT.CREATED_DATE</customTabListAdditionalFields>
         <lookupDialogsAdditionalFields>ACCOUNT.NAME</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>ACCOUNT.SITE</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>SAP_Account__c</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>ACCOUNT.ADDRESS1_CITY</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>ACCOUNT.TYPE</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>ACCOUNT.CREATED_DATE</lookupDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>ACCOUNT.NAME</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>ACCOUNT.SITE</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>SAP_Account__c</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>ACCOUNT.ADDRESS1_CITY</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ACCOUNT.TYPE</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ACCOUNT.CREATED_DATE</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>ACCOUNT.NAME</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ACCOUNT.SITE</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>SAP_Account__c</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>ACCOUNT.ADDRESS1_CITY</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ACCOUNT.TYPE</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ACCOUNT.CREATED_DATE</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <webLinks>
