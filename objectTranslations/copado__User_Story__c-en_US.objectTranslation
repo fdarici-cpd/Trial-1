@@ -77,7 +77,7 @@
         </picklistValues>
     </fields>
     <fields>
-        <label>Acceptance Criteria New Label</label>
+        <label>Acceptance Criteria New Label 1</label>
         <name>copado__Acceptance_Criteria__c</name>
     </fields>
     <fields>
