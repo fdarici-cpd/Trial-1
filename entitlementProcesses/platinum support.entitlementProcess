@@ -18,7 +18,7 @@
         <milestoneName>First Response</milestoneName>
         <minutesToComplete>60</minutesToComplete>
         <successActions>
-            <name>Case.Test_WFU</name>
+            <name>Test_WFU</name>
             <type>FieldUpdate</type>
         </successActions>
         <timeTriggers>
