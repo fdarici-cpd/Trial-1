@@ -9,5 +9,9 @@
         <members>Resolution Time</members>
         <name>MilestoneType</name>
     </types>
+    <types>
+        <members>Case.First_Response_due_in_10_mins</members>
+        <name>WorkflowAlert</name>
+    </types>
     <version>48.0</version>
 </Package>
