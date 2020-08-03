@@ -22,9 +22,6 @@
     <tabs>standard-Event</tabs>
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-Case</tabs>
-    <tabs>standard-News</tabs>
     <tabs>standard-Forecasting3</tabs>
-    <tabs>Project__c</tabs>
-    <tabs>Invoice__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

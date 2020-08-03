@@ -20,7 +20,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Readonly</behavior>
-                <field>Case_Age__c</field>
+                <field>Data_Completeness__c</field>
             </layoutItems>
         </layoutColumns>
         <style>OneColumn</style>

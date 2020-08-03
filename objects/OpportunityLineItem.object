@@ -149,4 +149,10 @@
     <fields>
         <fullName>UnitPrice</fullName>
     </fields>
+    <validationRules>
+        <fullName>Max_Quantity</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(ISNEW(),  Opportunity.Product_Count__c &gt; 2)</errorConditionFormula>
+        <errorMessage>You can&apos;t add more than 2 products</errorMessage>
+    </validationRules>
 </CustomObject>
