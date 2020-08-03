@@ -23,7 +23,7 @@
         </successActions>
         <timeTriggers>
             <actions>
-                <name>Case.First_Response_due_in_10_mins</name>
+                <name>First_Response_due_in_10_mins</name>
                 <type>Alert</type>
             </actions>
             <timeLength>-10</timeLength>
