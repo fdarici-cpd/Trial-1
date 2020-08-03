@@ -10,7 +10,7 @@
         <name>MilestoneType</name>
     </types>
     <types>
-        <members>Case.Test_WFU</members>
+        <members>Test_WFU</members>
         <name>WorkflowFieldUpdate</name>
     </types>
     <version>48.0</version>
