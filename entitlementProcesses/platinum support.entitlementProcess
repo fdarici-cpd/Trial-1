@@ -17,6 +17,10 @@
         </milestoneCriteriaFilterItems>
         <milestoneName>First Response</milestoneName>
         <minutesToComplete>60</minutesToComplete>
+        <successActions>
+            <name>Case.Test_WFU</name>
+            <type>FieldUpdate</type>
+        </successActions>
         <timeTriggers>
             <actions>
                 <name>First_Response_due_in_10_mins</name>

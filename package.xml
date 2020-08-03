@@ -4,5 +4,14 @@
         <members>platinum support</members>
         <name>EntitlementProcess</name>
     </types>
+    <types>
+        <members>First Response</members>
+        <members>Resolution Time</members>
+        <name>MilestoneType</name>
+    </types>
+    <types>
+        <members>Case.Test_WFU</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
     <version>48.0</version>
 </Package>
