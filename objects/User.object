@@ -199,74 +199,93 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
     <externalSharingModel>Private</externalSharingModel>
+    <fieldSets>
+        <fullName>vlocity_cmt__EcommCachingFieldSet</fullName>
+        <description>Used in generation of User context key.</description>
+        <label>EcommCachingFieldSet</label>
+    </fieldSets>
+    <fields>
+        <fullName>GlobalKey__c</fullName>
+        <externalId>false</externalId>
+        <label>GlobalKey</label>
+        <length>30</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <fields>
         <fullName>ManagerId</fullName>
         <trackFeedHistory>true</trackFeedHistory>
         <type>Hierarchy</type>
     </fields>
     <fields>
-        <fullName>TIMBASURVEYS__SurveyReminder__c</fullName>
-        <defaultValue>&apos;&apos;</defaultValue>
+        <fullName>vlocity_cmt__DocuSignEmail__c</fullName>
         <deprecated>false</deprecated>
         <externalId>false</externalId>
-        <label>SurveyReminder</label>
+        <label>DocuSign Email</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
-        <type>TextArea</type>
-    </fields>
-    <fields>
-        <fullName>TIMBASURVEYS__reminderStringSize__c</fullName>
-        <deprecated>false</deprecated>
-        <externalId>false</externalId>
-        <formula>LEN(TIMBASURVEYS__SurveyReminder__c)</formula>
-        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
-        <label>reminderStringSize</label>
-        <precision>18</precision>
-        <required>false</required>
-        <scale>0</scale>
-        <type>Number</type>
+        <type>Email</type>
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>copado__API_URL__c</fullName>
+        <fullName>vlocity_cmt__GlobalKey__c</fullName>
         <deprecated>false</deprecated>
+        <description>The globally unique identifier of the Product. Used to identify the product across Salesforce instances.</description>
         <externalId>false</externalId>
-        <formula>$Api.Partner_Server_URL_290</formula>
-        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
-        <label>API_URL</label>
+        <label>Global Key</label>
+        <length>80</length>
         <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>copado__Hide_Copado_feedback__c</fullName>
+        <fullName>vlocity_cmt__OMplusSyncEnabled__c</fullName>
         <defaultValue>false</defaultValue>
         <deprecated>false</deprecated>
+        <description>Enable OM+ sync for this user</description>
         <externalId>false</externalId>
-        <inlineHelpText>The visibility of the message asking users to rate &amp; feedback Copado on the AppExchange is controlled here.</inlineHelpText>
-        <label>Hide Copado feedback</label>
+        <inlineHelpText>If checked a user will be marked for export to OMplus platform. User will be enabled in OMplus once catalog synchronisation job is complete in Vlocity XOM Administration tab.</inlineHelpText>
+        <label>OMplus Enabled</label>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
     </fields>
     <fields>
-        <fullName>copado__Show_Copado_Tips__c</fullName>
-        <defaultValue>true</defaultValue>
+        <fullName>vlocity_cmt__OMplus_Enabled__c</fullName>
+        <defaultValue>false</defaultValue>
         <deprecated>false</deprecated>
+        <description>Enable User in OMplus platform</description>
         <externalId>false</externalId>
-        <label>Show Copado Tips</label>
+        <inlineHelpText>If checked a user will be marked for export to OMplus platform. User will be enabled in OMplus once catalog synchronisation job is complete in Vlocity XOM Administration tab.</inlineHelpText>
+        <label>OMplus Enabled</label>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
     </fields>
     <fields>
-        <fullName>copado__Work_Manager_Panels__c</fullName>
+        <fullName>vlocity_cmt__StoreAssociateStatus__c</fullName>
         <deprecated>false</deprecated>
-        <description>JSON containing current user panels on the Backlog</description>
         <externalId>false</externalId>
-        <label>Work Manager Panels</label>
-        <length>131072</length>
+        <label>Store Associate Status</label>
+        <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
-        <type>LongTextArea</type>
-        <visibleLines>2</visibleLines>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Clocked In</fullName>
+                    <default>false</default>
+                    <label>Clocked In</label>
+                </value>
+                <value>
+                    <fullName>Clocked Out</fullName>
+                    <default>false</default>
+                    <label>Clocked Out</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
     </fields>
     <listViews>
         <fullName>ActiveUsers</fullName>

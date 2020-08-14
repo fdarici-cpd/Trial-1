@@ -15,7 +15,6 @@
     <tabs>standard-Dashboard</tabs>
     <tabs>standard-Product2</tabs>
     <tabs>standard-Forecasting3</tabs>
-    <tabs>Getting_Started</tabs>
-    <tabs>Project__c</tabs>
-    <tabs>Invoice__c</tabs>
+    <tabs>standard-Quote</tabs>
+    <uiType>Aloha</uiType>
 </CustomApplication>

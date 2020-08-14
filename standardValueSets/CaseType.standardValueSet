@@ -16,4 +16,24 @@
         <default>false</default>
         <label>Question</label>
     </standardValue>
+    <standardValue>
+        <fullName>Billing</fullName>
+        <default>false</default>
+        <label>Billing</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Product</fullName>
+        <default>false</default>
+        <label>Product</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Orders</fullName>
+        <default>false</default>
+        <label>Orders</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Account Info</fullName>
+        <default>false</default>
+        <label>Account Info</label>
+    </standardValue>
 </StandardValueSet>
