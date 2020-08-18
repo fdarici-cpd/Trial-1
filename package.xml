@@ -8,5 +8,9 @@
         <members>CommunityTest</members>
         <name>Network</name>
     </types>
+    <types>
+        <members>CommunityTest1</members>
+        <name>SiteDotCom</name>
+    </types>
     <version>49.0</version>
 </Package>
