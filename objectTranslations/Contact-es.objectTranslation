@@ -5,7 +5,7 @@
         <name>Attended_Dreamforce__c</name>
     </fields>
     <fields>
-        <label></label>
+        <label>DrmFrc - Sp</label>
         <name>Dreamforce__c</name>
         <picklistValues>
             <masterLabel>No</masterLabel>
