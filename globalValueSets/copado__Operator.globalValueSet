@@ -26,6 +26,16 @@
         <label>Test</label>
     </customValue>
     <customValue>
+        <fullName>Starts with</fullName>
+        <default>false</default>
+        <label>Starts with</label>
+    </customValue>
+    <customValue>
+        <fullName>Test1</fullName>
+        <default>false</default>
+        <label>Test1</label>
+    </customValue>
+    <customValue>
         <fullName>Does not contain</fullName>
         <default>false</default>
         <isActive>false</isActive>
@@ -36,12 +46,6 @@
         <default>false</default>
         <isActive>false</isActive>
         <label>Not equal to</label>
-    </customValue>
-    <customValue>
-        <fullName>Starts with</fullName>
-        <default>false</default>
-        <isActive>false</isActive>
-        <label>Starts with</label>
     </customValue>
     <masterLabel>Operator</masterLabel>
     <sorted>false</sorted>
