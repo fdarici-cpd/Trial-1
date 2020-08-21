@@ -2,10 +2,13 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>A2__c.F1__c</members>
+        <members>Country__c.Code__c</members>
+        <members>Country__c.Name__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>A2__c</members>
+        <members>Country__c</members>
         <name>CustomObject</name>
     </types>
     <version>49.0</version>
