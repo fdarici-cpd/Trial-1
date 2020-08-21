@@ -180,6 +180,25 @@
             </valueSetDefinition>
         </valueSet>
     </fields>
+    <fields>
+        <fullName>F3__c</fullName>
+        <externalId>false</externalId>
+        <label>F3</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Metal Enclosed - HVL/HVLcc</fullName>
+                    <default>false</default>
+                    <label>Metal Enclosed - HVL/HVLcc</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
     <label>A2</label>
     <nameField>
         <label>A2 Name</label>
