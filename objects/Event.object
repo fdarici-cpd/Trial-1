@@ -179,6 +179,7 @@
     </fields>
     <fields>
         <fullName>EventSubtype</fullName>
+        <description>EventSubtype</description>
     </fields>
     <fields>
         <fullName>IsAllDayEvent</fullName>
