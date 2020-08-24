@@ -120,9 +120,9 @@
             <valueSetDefinition>
                 <sorted>false</sorted>
                 <value>
-                    <fullName>A/B</fullName>
+                    <fullName>A / B</fullName>
                     <default>false</default>
-                    <label>A/B</label>
+                    <label>A / B</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
