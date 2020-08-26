@@ -5,6 +5,10 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>standard-home</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
         <members>Test_Home_Page_1</members>
         <name>FlexiPage</name>
     </types>
