@@ -8,31 +8,17 @@
         <type>Flexipage</type>
         <pageOrSobjectType>standard-home</pageOrSobjectType>
     </actionOverrides>
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
     <formFactors>Small</formFactors>
-    <formFactors>Medium</formFactors>
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
-    <label>Sales</label>
+    <label>A</label>
     <navType>Standard</navType>
-    <tabs>standard-home</tabs>
-    <tabs>standard-Opportunity</tabs>
-    <tabs>standard-Lead</tabs>
-    <tabs>standard-Task</tabs>
-    <tabs>standard-File</tabs>
     <tabs>standard-Account</tabs>
-    <tabs>standard-Contact</tabs>
-    <tabs>standard-Campaign</tabs>
-    <tabs>standard-Dashboard</tabs>
-    <tabs>standard-report</tabs>
-    <tabs>standard-Feed</tabs>
-    <tabs>standard-CollaborationGroup</tabs>
-    <tabs>standard-Event</tabs>
-    <tabs>standard-OtherUserProfile</tabs>
-    <tabs>standard-Case</tabs>
-    <tabs>standard-News</tabs>
-    <tabs>standard-Forecasting3</tabs>
-    <tabs>Project__c</tabs>
-    <tabs>Invoice__c</tabs>
     <uiType>Lightning</uiType>
+    <utilityBar>A_UtilityBar</utilityBar>
 </CustomApplication>
