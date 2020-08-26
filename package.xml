@@ -6,6 +6,10 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>A4__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>A_UtilityBar</members>
         <members>Test_Home_Page_1</members>
         <name>FlexiPage</name>
