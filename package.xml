@@ -9,6 +9,7 @@
         <name>CustomTab</name>
     </types>
     <types>
+        <members>B_UtilityBar</members>
         <members>Test_Home_Page_2</members>
         <name>FlexiPage</name>
     </types>
