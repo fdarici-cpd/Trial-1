@@ -5,7 +5,7 @@
         <description>Test Email</description>
         <protected>false</protected>
         <recipients>
-            <recipient>bobcpd@gmail_fd.com</recipient>
+            <recipient>fdarici+nh2-wxtv@force.com</recipient>
             <type>user</type>
         </recipients>
         <senderType>CurrentUser</senderType>
