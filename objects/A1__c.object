@@ -335,5 +335,11 @@
     <pluralLabel>A1</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>Test</fullName>
+        <active>true</active>
+        <errorConditionFormula>1=0</errorConditionFormula>
+        <errorMessage>Test English</errorMessage>
+    </validationRules>
     <visibility>Public</visibility>
 </CustomObject>
