@@ -5,6 +5,10 @@
         <name>CustomObjectTranslation</name>
     </types>
     <types>
+        <members>es</members>
+        <name>Translations</name>
+    </types>
+    <types>
         <members>A1__c.Test</members>
         <name>ValidationRule</name>
     </types>
