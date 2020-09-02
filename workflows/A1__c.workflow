@@ -2,11 +2,11 @@
 <Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
     <alerts>
         <fullName>Email_Alert_1</fullName>
-        <ccEmails>fusundarici@gmail.com</ccEmails>
+        <ccEmails>{!Environment.ccEmail}</ccEmails>
         <description>Email Alert 1</description>
         <protected>false</protected>
         <recipients>
-            <recipient>fdarici+nh2-wxtv@force.com</recipient>
+            <recipient>{!Environment.RecipientVariable}</recipient>
             <type>user</type>
         </recipients>
         <senderType>CurrentUser</senderType>
