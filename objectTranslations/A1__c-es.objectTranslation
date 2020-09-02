@@ -24,6 +24,10 @@
             <translation>D Es</translation>
         </picklistValues>
     </fields>
+    <fields>
+        <label>F1 Spanish</label>
+        <name>F1__c</name>
+    </fields>
     <nameFieldLabel></nameFieldLabel>
     <validationRules>
         <errorMessage>Test Spanish</errorMessage>
