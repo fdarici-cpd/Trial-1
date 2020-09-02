@@ -8,5 +8,9 @@
         <members>A1__c-es</members>
         <name>CustomObjectTranslation</name>
     </types>
+    <types>
+        <members>A1__c.Test_2</members>
+        <name>ValidationRule</name>
+    </types>
     <version>49.0</version>
 </Package>

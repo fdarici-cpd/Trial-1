@@ -33,4 +33,8 @@
         <errorMessage>Test Spanish</errorMessage>
         <name>Test</name>
     </validationRules>
+    <validationRules>
+        <errorMessage>Error Message Spanish</errorMessage>
+        <name>Test_2</name>
+    </validationRules>
 </CustomObjectTranslation>
