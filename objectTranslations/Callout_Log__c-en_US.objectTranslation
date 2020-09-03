@@ -30,5 +30,5 @@
         <name>User_Story__c</name>
         <relationshipLabel><!-- Callout Logs --></relationshipLabel>
     </fields>
-    <startsWith>Consonant</startsWith>
+    <startsWith><!-- Consonant --></startsWith>
 </CustomObjectTranslation>
