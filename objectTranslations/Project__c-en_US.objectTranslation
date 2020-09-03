@@ -9,9 +9,9 @@
         <value>Projects</value>
     </caseValues>
     <fields>
-        <label><!-- Project Manager --></label>
+        <label>PM</label>
         <name>Project_Manager__c</name>
-        <relationshipLabel><!-- Projects --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
