@@ -6,7 +6,6 @@
     </types>
     <types>
         <members>Project__c-en_US</members>
-        <members>Project__c-es</members>
         <name>CustomObjectTranslation</name>
     </types>
     <version>49.0</version>
