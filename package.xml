@@ -5,6 +5,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Project__c-en_US</members>
         <members>Project__c-es</members>
         <name>CustomObjectTranslation</name>
     </types>
