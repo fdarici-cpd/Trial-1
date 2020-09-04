@@ -9,31 +9,31 @@
         <value>Invoices</value>
     </caseValues>
     <fields>
-        <label><!-- Account --></label>
+        <label>Account Eng</label>
         <name>Account__c</name>
-        <relationshipLabel><!-- Invoices --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- Contact --></label>
+        <label></label>
         <name>Contact__c</name>
-        <relationshipLabel><!-- Invoices --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- Invoice Date --></label>
+        <label></label>
         <name>Invoice_Date__c</name>
     </fields>
     <fields>
-        <label><!-- Invoice Due Date --></label>
+        <label></label>
         <name>Invoice_Due_Date__c</name>
     </fields>
     <fields>
-        <label><!-- Invoice Name --></label>
+        <label></label>
         <name>Invoice_N__c</name>
     </fields>
     <fields>
-        <label><!-- Project --></label>
+        <label></label>
         <name>Project__c</name>
-        <relationshipLabel><!-- Invoices --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
