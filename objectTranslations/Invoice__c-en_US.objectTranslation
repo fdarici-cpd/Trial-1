@@ -35,5 +35,5 @@
         <name>Project__c</name>
         <relationshipLabel><!-- Invoices --></relationshipLabel>
     </fields>
-    <startsWith>Consonant</startsWith>
+    <startsWith><!-- Consonant --></startsWith>
 </CustomObjectTranslation>
