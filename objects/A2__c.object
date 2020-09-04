@@ -193,7 +193,7 @@
                 <sorted>false</sorted>
                 <value>
                     <fullName>Metal Enclosed - HVL/HVLcc</fullName>
-                    <default>false</default>
+                    <default>true</default>
                     <label>Metal Enclosed - HVL/HVLcc</label>
                 </value>
             </valueSetDefinition>
@@ -211,9 +211,9 @@
             <valueSetDefinition>
                 <sorted>false</sorted>
                 <value>
-                    <fullName>Metal Enclosed - HVL/HVLcc</fullName>
+                    <fullName>Metal Enclo sed - H-V - L/HVLcc</fullName>
                     <default>false</default>
-                    <label>Metal Enclosed - HVL/HVLcc</label>
+                    <label>Metal Enclo sed - H-V - L/HVLcc</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
@@ -249,9 +249,9 @@
             <valueSetDefinition>
                 <sorted>false</sorted>
                 <value>
-                    <fullName>Metal Enclosed - HVL/HVLcc</fullName>
+                    <fullName>Metal Enclosed - HVL -/ HVLcc</fullName>
                     <default>false</default>
-                    <label>Metal Enclosed - HVL/HVLcc</label>
+                    <label>Metal Enclosed - HVL -/ HVLcc</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
