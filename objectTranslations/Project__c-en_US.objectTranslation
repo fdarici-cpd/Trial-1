@@ -13,7 +13,4 @@
         <name>Project_Manager__c</name>
         <relationshipLabel/>
     </fields>
-<startsWith>
-Consonant
-</startsWith>
 </CustomObjectTranslation>
