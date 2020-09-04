@@ -8,11 +8,12 @@
         <plural>true</plural>
         <value>Projects</value>
     </caseValues>
-
-    <fields>
+<fields>
         <label>PM</label>
         <name>Project_Manager__c</name>
-        <relationshipLabel></relationshipLabel>
+        <relationshipLabel/>
     </fields>
-    <startsWith><!-- Consonant --></startsWith>
+<startsWith>
+<!-- Consonant -->
+</startsWith>
 </CustomObjectTranslation>
