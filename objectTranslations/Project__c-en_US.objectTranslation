@@ -13,4 +13,5 @@
         <name>Project_Manager__c</name>
         <relationshipLabel/>
     </fields>
+        <startsWith>Vowel</startsWith>
 </CustomObjectTranslation>
