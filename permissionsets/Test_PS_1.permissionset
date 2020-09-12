@@ -10,6 +10,11 @@
         <field>A1__c.F10__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>A1__c.F11__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Test PS 1</label>
     <objectPermissions>
@@ -21,4 +26,8 @@
         <object>A1__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <pageAccesses>
+        <apexPage>HelloWorld</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
 </PermissionSet>
