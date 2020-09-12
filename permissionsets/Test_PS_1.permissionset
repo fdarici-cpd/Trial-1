@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>A1__c.F11__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Test PS 1</label>
+    <pageAccesses>
+        <apexPage>HelloWorld</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
+</PermissionSet>
