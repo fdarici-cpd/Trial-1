@@ -26,4 +26,8 @@
         <object>A1__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <pageAccesses>
+        <apexPage>HelloWorld</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
 </PermissionSet>
