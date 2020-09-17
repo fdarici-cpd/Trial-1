@@ -4,9 +4,5 @@
         <members>A5__c.F1_PL__c</members>
         <name>CustomField</name>
     </types>
-    <types>
-        <members>A5__c</members>
-        <name>CustomObject</name>
-    </types>
     <version>49.0</version>
 </Package>
