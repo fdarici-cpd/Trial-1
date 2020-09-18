@@ -9,92 +9,20 @@
         <value>A1</value>
     </caseValues>
     <fields>
-        <label></label>
-        <name>Brand__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>F10__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>F11__c</name>
-    </fields>
-    <fields>
-        <label></label>
+        <label><!-- F12 --></label>
         <name>F12__c</name>
         <picklistValues>
             <masterLabel>A</masterLabel>
-            <translation></translation>
+            <translation><!-- A --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>B</masterLabel>
-            <translation></translation>
+            <translation><!-- B --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>D</masterLabel>
-            <translation></translation>
+            <translation><!-- D --></translation>
         </picklistValues>
-    </fields>
-    <fields>
-        <label></label>
-        <name>F1__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>F2__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>F3__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>F4__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>F5__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>F6_New__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>F7__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>F8__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>F9__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>Field_1__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>Field_2__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>Field_3__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>Field_4__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>Field_5__c</name>
-    </fields>
-    <fields>
-        <label></label>
-        <name>Field_6__c</name>
     </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

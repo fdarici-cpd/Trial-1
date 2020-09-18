@@ -224,14 +224,13 @@
         <displayLocationInDecimal>false</displayLocationInDecimal>
         <externalId>false</externalId>
         <label>F2</label>
-        <required>true</required>
+        <required>false</required>
         <scale>1</scale>
         <trackTrending>false</trackTrending>
         <type>Location</type>
     </fields>
     <fields>
         <fullName>F3__c</fullName>
-        <description>F3</description>
         <externalId>false</externalId>
         <label>F3</label>
         <required>false</required>
@@ -343,17 +342,5 @@
     <pluralLabel>A1</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
-    <validationRules>
-        <fullName>Test</fullName>
-        <active>true</active>
-        <errorConditionFormula>1=0</errorConditionFormula>
-        <errorMessage>Test English</errorMessage>
-    </validationRules>
-    <validationRules>
-        <fullName>Test_2</fullName>
-        <active>true</active>
-        <errorConditionFormula>1=0</errorConditionFormula>
-        <errorMessage>Error message English</errorMessage>
-    </validationRules>
     <visibility>Public</visibility>
 </CustomObject>

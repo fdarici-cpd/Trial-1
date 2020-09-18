@@ -610,6 +610,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>A1__c.F2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>A1__c.F3__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -619,7 +624,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
         <field>A1__c.Field_2__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -656,6 +661,16 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.AnnualRevenue</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.BP_Test_1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.BP_Test__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
