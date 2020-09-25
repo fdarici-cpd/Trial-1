@@ -2701,7 +2701,7 @@
         <visible>false</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
-        <default>true</default>
+        <default>false</default>
         <recordType>Knowledge__kav.Best_Practices</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
@@ -2711,7 +2711,8 @@
         <visible>false</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
-        <default>false</default>
+        <default>true</default>
+        <personAccountDefault>true</personAccountDefault>
         <recordType>Knowledge__kav.Forms</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
