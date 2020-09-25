@@ -174,7 +174,7 @@
         </relatedContentItems>
     </relatedContent>
     <relatedLists>
-        <fields>CAMPAIGN.NAME</fields>
+        <fields>Campaign.Name</fields>
         <fields>CONTACT.NAME</fields>
         <fields>INFLUENCE</fields>
         <fields>REVENUE_SHARE</fields>
