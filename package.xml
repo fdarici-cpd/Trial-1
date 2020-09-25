@@ -3,6 +3,7 @@
     <types>
         <members>Campaign.Name</members>
         <members>Contact.Name</members>
+        <members>Opportunity.Brand__c</members>
         <members>Opportunity.CurrencyIsoCode</members>
         <members>Opportunity.Product__c</members>
         <members>Opportunity.Sales_Value__c</members>
