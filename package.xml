@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>platinum support</members>
-        <name>EntitlementProcess</name>
+        <members>Custom%3A Sales Profile</members>
+        <name>Profile</name>
     </types>
     <types>
-        <members>First Response</members>
-        <members>Resolution Time</members>
-        <name>MilestoneType</name>
+        <members>Knowledge__kav.Best_Practices</members>
+        <members>Knowledge__kav.FAQ</members>
+        <members>Knowledge__kav.Forms</members>
+        <name>RecordType</name>
     </types>
-    <version>48.0</version>
+    <version>49.0</version>
 </Package>
