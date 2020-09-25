@@ -418,10 +418,6 @@ CASE( Dreamforce__c,
         <type>Lookup</type>
     </fields>
     <fields>
-        <fullName>Jigsaw</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
         <fullName>LastCURequestDate</fullName>
     </fields>
     <fields>
