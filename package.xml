@@ -8,5 +8,10 @@
         <members>IPG_Sales_Team</members>
         <name>GlobalValueSet</name>
     </types>
+    <types>
+        <members>Opportunity.RT_1</members>
+        <members>Opportunity.RT_2</members>
+        <name>RecordType</name>
+    </types>
     <version>49.0</version>
 </Package>
