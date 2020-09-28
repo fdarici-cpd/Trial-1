@@ -259,6 +259,20 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>IPG_Sales_Team__c</fullName>
+        <externalId>false</externalId>
+        <label>IPG Sales Team</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>MultiselectPicklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>IPG_Sales_Team</valueSetName>
+        </valueSet>
+        <visibleLines>5</visibleLines>
+    </fields>
+    <fields>
         <fullName>IqScore</fullName>
         <trackTrending>false</trackTrending>
     </fields>
