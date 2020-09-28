@@ -463,6 +463,17 @@
         <businessProcess>SP1</businessProcess>
         <label>RT 1</label>
         <picklistValues>
+            <picklist>IPG_Sales_Team__c</picklist>
+            <values>
+                <fullName>China</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Japan</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
             <picklist>Brand__c</picklist>
             <values>
                 <fullName>B1</fullName>
@@ -510,6 +521,17 @@
         <active>true</active>
         <businessProcess>SP1</businessProcess>
         <label>RT 2</label>
+        <picklistValues>
+            <picklist>IPG_Sales_Team__c</picklist>
+            <values>
+                <fullName>China</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Japan</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
         <picklistValues>
             <picklist>Brand__c</picklist>
             <values>
