@@ -178,14 +178,6 @@
         </relatedContentItems>
     </relatedContent>
     <relatedLists>
-        <fields>CAMPAIGN.NAME</fields>
-        <fields>CONTACT.NAME</fields>
-        <fields>INFLUENCE</fields>
-        <fields>REVENUE_SHARE</fields>
-        <fields>OCR.ROLE</fields>
-        <relatedList>RelatedCampaignInfluence2List</relatedList>
-    </relatedLists>
-    <relatedLists>
         <fields>TASK.SUBJECT</fields>
         <fields>TASK.WHO_NAME</fields>
         <fields>ACTIVITY.TASK</fields>
@@ -194,6 +186,14 @@
         <fields>TASK.PRIORITY</fields>
         <fields>CORE.USERS.FULL_NAME</fields>
         <relatedList>RelatedActivityList</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>CAMPAIGN.NAME</fields>
+        <fields>CONTACT.NAME</fields>
+        <fields>INFLUENCE</fields>
+        <fields>REVENUE_SHARE</fields>
+        <fields>OCR.ROLE</fields>
+        <relatedList>RelatedCampaignInfluence2List</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>TASK.SUBJECT</fields>
