@@ -39,6 +39,10 @@
                 <behavior>Edit</behavior>
                 <field>Sales_Value__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>IPG_Sales_Team__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
