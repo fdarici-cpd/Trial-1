@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>AccountRating</members>
-        <name>StandardValueSet</name>
+        <members>A1__c.F12__c</members>
+        <name>CustomField</name>
     </types>
     <types>
-        <members>AccountRating-es</members>
-        <name>StandardValueSetTranslation</name>
+        <members>A1__c-es</members>
+        <name>CustomObjectTranslation</name>
     </types>
     <version>48.0</version>
 </Package>
