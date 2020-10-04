@@ -182,10 +182,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>SiteLoginControllerTest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SiteRegisterController</apexClass>
         <enabled>false</enabled>
     </classAccesses>
