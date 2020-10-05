@@ -7627,9 +7627,6 @@
         <layout>CollaborationGroup-Group Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>CommSubscriptionTiming-Communication Subscription Timing Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>CommunityMemberLayout-Community Member Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
