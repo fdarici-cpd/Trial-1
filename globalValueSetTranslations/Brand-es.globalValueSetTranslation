@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>B1</masterLabel>
+        <translation>B1 Spanish</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>B2</masterLabel>
+        <translation>B2 Spanish</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>B3</masterLabel>
+        <translation>B3 Spanish</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>B4</masterLabel>
+        <translation>B4 Spanish</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>
