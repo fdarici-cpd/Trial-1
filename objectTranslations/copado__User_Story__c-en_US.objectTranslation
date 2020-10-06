@@ -77,7 +77,7 @@
         </picklistValues>
     </fields>
     <fields>
-        <label></label>
+        <label>Acceptance Criteria New Label</label>
         <name>copado__Acceptance_Criteria__c</name>
     </fields>
     <fields>
@@ -840,7 +840,7 @@
         <name>copado__Add_Commits</name>
     </webLinks>
     <webLinks>
-        <label>Add Metadata Override</label>
+        <label></label>
         <name>copado__Add_Metadata</name>
     </webLinks>
     <webLinks>
