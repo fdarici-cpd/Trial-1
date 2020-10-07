@@ -162,6 +162,16 @@
         <type>Date</type>
     </fields>
     <fields>
+        <fullName>F7__c</fullName>
+        <externalId>false</externalId>
+        <label>F7</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
         <fullName>Field_1__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
