@@ -7708,9 +7708,6 @@
         <layout>OrderItem-Order Product Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>PartyConsent-Party Consent Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Pricebook2-Price Book Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
