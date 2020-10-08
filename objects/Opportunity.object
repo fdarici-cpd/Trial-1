@@ -232,6 +232,20 @@
         <visibleLines>5</visibleLines>
     </fields>
     <fields>
+        <fullName>IPG_Sales_Team__c</fullName>
+        <externalId>false</externalId>
+        <label>IPG Sales Team</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>MultiselectPicklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>IPG_Sales_Team</valueSetName>
+        </valueSet>
+        <visibleLines>5</visibleLines>
+    </fields>
+    <fields>
         <fullName>IqScore</fullName>
         <trackTrending>false</trackTrending>
     </fields>
@@ -377,6 +391,40 @@
         </filters>
         <label>Won</label>
     </listViews>
+    <recordTypes>
+        <fullName>RT_1</fullName>
+        <active>true</active>
+        <businessProcess>SP1</businessProcess>
+        <label>RT 1</label>
+        <picklistValues>
+            <picklist>IPG_Sales_Team__c</picklist>
+            <values>
+                <fullName>China</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Japan</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>RT_2</fullName>
+        <active>true</active>
+        <businessProcess>SP1</businessProcess>
+        <label>RT 2</label>
+        <picklistValues>
+            <picklist>IPG_Sales_Team__c</picklist>
+            <values>
+                <fullName>China</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Japan</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>OPPORTUNITY.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
