@@ -71,6 +71,9 @@
         <fullName>Description</fullName>
     </fields>
     <fields>
+        <fullName>DeveloperName</fullName>
+    </fields>
+    <fields>
         <fullName>ForecastUserId</fullName>
         <type>Lookup</type>
     </fields>
