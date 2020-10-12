@@ -162,6 +162,16 @@
         <type>Phone</type>
     </fields>
     <fields>
+        <fullName>F2__c</fullName>
+        <displayLocationInDecimal>false</displayLocationInDecimal>
+        <externalId>false</externalId>
+        <label>F2</label>
+        <required>false</required>
+        <scale>1</scale>
+        <trackTrending>false</trackTrending>
+        <type>Location</type>
+    </fields>
+    <fields>
         <fullName>Field_1__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
