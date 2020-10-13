@@ -192,6 +192,41 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>Brand__c</fullName>
+        <externalId>false</externalId>
+        <label>Brand</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>B1</fullName>
+                    <default>false</default>
+                    <label>B1</label>
+                </value>
+                <value>
+                    <fullName>B2</fullName>
+                    <default>false</default>
+                    <label>B2</label>
+                </value>
+                <value>
+                    <fullName>B3</fullName>
+                    <default>false</default>
+                    <label>B3</label>
+                </value>
+                <value>
+                    <fullName>B4</fullName>
+                    <default>false</default>
+                    <label>B4</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>CampaignId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackTrending>false</trackTrending>
@@ -274,7 +309,7 @@
     </fields>
     <fields>
         <fullName>Product__c</fullName>
-        <description>Test</description>
+        <description>Product PL</description>
         <externalId>false</externalId>
         <label>Product</label>
         <required>false</required>
@@ -283,7 +318,7 @@
         <type>Picklist</type>
         <valueSet>
             <restricted>true</restricted>
-            <valueSetName>Product_1</valueSetName>
+            <valueSetName>Product</valueSetName>
         </valueSet>
     </fields>
     <fields>
@@ -384,9 +419,28 @@
         <businessProcess>SP1</businessProcess>
         <label>RT 1</label>
         <picklistValues>
+            <picklist>Brand__c</picklist>
+            <values>
+                <fullName>B1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>B2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>B3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>B4</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
             <picklist>Product__c</picklist>
             <values>
-                <fullName>P1</fullName>
+                <fullName>P10</fullName>
                 <default>false</default>
             </values>
             <values>
@@ -394,15 +448,15 @@
                 <default>false</default>
             </values>
             <values>
-                <fullName>P3</fullName>
-                <default>false</default>
-            </values>
-            <values>
                 <fullName>P4</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>P5</fullName>
+                <fullName>P6</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P8</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
@@ -413,13 +467,28 @@
         <businessProcess>SP1</businessProcess>
         <label>RT 2</label>
         <picklistValues>
-            <picklist>Product__c</picklist>
+            <picklist>Brand__c</picklist>
             <values>
-                <fullName>P1</fullName>
+                <fullName>B1</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>P2</fullName>
+                <fullName>B2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>B3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>B4</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Product__c</picklist>
+            <values>
+                <fullName>P1</fullName>
                 <default>false</default>
             </values>
             <values>
@@ -427,11 +496,15 @@
                 <default>false</default>
             </values>
             <values>
-                <fullName>P4</fullName>
+                <fullName>P5</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>P5</fullName>
+                <fullName>P7</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P9</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
