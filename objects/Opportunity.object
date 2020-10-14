@@ -141,6 +141,42 @@
         <type>Default</type>
     </actionOverrides>
     <businessProcesses>
+        <fullName>SP1</fullName>
+        <isActive>true</isActive>
+        <values>
+            <fullName>Closed Lost</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Closed Won</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Id%2E Decision Makers</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Needs Analysis</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Negotiation%2FReview</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prospecting</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Qualification</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value Proposition</fullName>
+            <default>false</default>
+        </values>
+    </businessProcesses>
+    <businessProcesses>
         <fullName>Test 1</fullName>
         <isActive>true</isActive>
         <values>
@@ -377,6 +413,35 @@
         </filters>
         <label>Won</label>
     </listViews>
+    <recordTypes>
+        <fullName>RT_1</fullName>
+        <active>true</active>
+        <businessProcess>SP1</businessProcess>
+        <label>RT 1</label>
+        <picklistValues>
+            <picklist>Product__c</picklist>
+            <values>
+                <fullName>P1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P4</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P5</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>OPPORTUNITY.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
