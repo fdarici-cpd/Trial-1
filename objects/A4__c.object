@@ -153,23 +153,13 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <fields>
-        <fullName>F1__c</fullName>
-        <externalId>false</externalId>
-        <label>F1</label>
-        <precision>18</precision>
-        <required>false</required>
-        <scale>0</scale>
-        <trackTrending>false</trackTrending>
-        <type>Currency</type>
-    </fields>
-    <label>A3</label>
+    <label>A4</label>
     <nameField>
-        <label>A3 Name</label>
+        <label>A4 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>A3</pluralLabel>
+    <pluralLabel>A4</pluralLabel>
     <searchLayouts />
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>Read</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
