@@ -4,9 +4,5 @@
         <members>Copado_Developer_Muted</members>
         <name>MutingPermissionSet</name>
     </types>
-    <types>
-        <members>PSG_2</members>
-        <name>PermissionSetGroup</name>
-    </types>
     <version>48.0</version>
 </Package>
