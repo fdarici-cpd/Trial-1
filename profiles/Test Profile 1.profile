@@ -11957,10 +11957,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>ModerateNetworkFiles</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>ModerateNetworkMessages</name>
     </userPermissions>
     <userPermissions>
