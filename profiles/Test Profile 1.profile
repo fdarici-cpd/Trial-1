@@ -9632,10 +9632,6 @@
         <enabled>true</enabled>
     </pageAccesses>
     <pageAccesses>
-        <apexPage>SiteRegister</apexPage>
-        <enabled>false</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SiteRegisterConfirm</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
