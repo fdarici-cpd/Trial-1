@@ -126,10 +126,6 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>AccountAutomationsTest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>AccountOperations</apexClass>
         <enabled>false</enabled>
     </classAccesses>
