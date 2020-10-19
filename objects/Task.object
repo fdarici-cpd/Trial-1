@@ -116,6 +116,7 @@
     <enableFeeds>false</enableFeeds>
     <fields>
         <fullName>ActivityDate</fullName>
+        <description>Task Due Date</description>
     </fields>
     <fields>
         <fullName>CallDisposition</fullName>
@@ -358,6 +359,6 @@
         </filters>
         <label>ENCODED:{!FilterNames.Task_UnscheduledTasks}</label>
     </listViews>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>Private</sharingModel>
 </CustomObject>
