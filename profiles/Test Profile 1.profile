@@ -174,10 +174,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>MyProfilePageControllerTest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>ScheduleUserStoryFetch</apexClass>
         <enabled>false</enabled>
     </classAccesses>
