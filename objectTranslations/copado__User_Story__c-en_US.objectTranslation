@@ -77,7 +77,7 @@
         </picklistValues>
     </fields>
     <fields>
-        <label>Acceptance Criteria Override</label>
+        <label></label>
         <name>copado__Acceptance_Criteria__c</name>
     </fields>
     <fields>
@@ -852,7 +852,7 @@
         <name>copado__Assign_to_Release</name>
     </webLinks>
     <webLinks>
-        <label></label>
+        <label>Commit Changes Override</label>
         <name>copado__Commit_Files</name>
     </webLinks>
     <webLinks>
