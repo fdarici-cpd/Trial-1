@@ -126,10 +126,6 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>AccountOperationsTest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>CallIterable</apexClass>
         <enabled>false</enabled>
     </classAccesses>
