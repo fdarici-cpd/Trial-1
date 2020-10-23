@@ -1,8 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>A2__c.F2__c</members>
+        <members>Opportunity.IsExcludedFromTerritory2Filter</members>
+        <members>Opportunity.Territory2Id</members>
+        <members>OpportunityChangeEvent.IsExcludedFromTerritory2Filter</members>
+        <members>OpportunityChangeEvent.Territory2Id</members>
+        <members>Territory2.AccountAccessLevel</members>
+        <members>Territory2.CaseAccessLevel</members>
+        <members>Territory2.ContactAccessLevel</members>
+        <members>Territory2.CurrencyIsoCode</members>
+        <members>Territory2.Description</members>
+        <members>Territory2.DeveloperName</members>
+        <members>Territory2.ForecastUserId</members>
+        <members>Territory2.Name</members>
+        <members>Territory2.OpportunityAccessLevel</members>
+        <members>Territory2.ParentTerritory2Id</members>
+        <members>Territory2.Territory2ModelId</members>
+        <members>Territory2.Territory2TypeId</members>
+        <members>UserTerritory2Association.IsActive</members>
+        <members>UserTerritory2Association.RoleInTerritory2</members>
+        <members>UserTerritory2Association.Territory2Id</members>
+        <members>UserTerritory2Association.UserId</members>
         <name>CustomField</name>
     </types>
-    <version>49.0</version>
+    <types>
+        <members>Territory2</members>
+        <members>Territory2Model</members>
+        <members>UserTerritory2Association</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Territory2-Territory Layout</members>
+        <members>Territory2Model-Territory Model Layout</members>
+        <members>Territory2Type-Territory Type Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>RoleInTerritory2</members>
+        <name>StandardValueSet</name>
+    </types>
+    <types>
+        <members>MOA_Region.North1_Florida</members>
+        <members>MOA_Region.South_Florida</members>
+        <members>MOA_Region.Southern</members>
+        <name>Territory2</name>
+    </types>
+    <types>
+        <members>MOA_Region</members>
+        <name>Territory2Model</name>
+    </types>
+    <types>
+        <members>Territory</members>
+        <name>Territory2Type</name>
+    </types>
+    <types>
+        <members>Territory2</members>
+        <name>Settings</name>
+    </types>
+    <version>48.0</version>
 </Package>
