@@ -3884,11 +3884,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>User.External_Id__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>User.TIMBASURVEYS__SurveyReminder__c</field>
         <readable>true</readable>
     </fieldPermissions>
