@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account.New_Group</members>
-        <name>SharingOwnerRule</name>
+        <members>Model_A.Territory_1</members>
+        <name>Territory2</name>
+    </types>
+    <types>
+        <members>Model_A</members>
+        <name>Territory2Model</name>
+    </types>
+    <types>
+        <members>Territory</members>
+        <name>Territory2Type</name>
     </types>
     <version>48.0</version>
 </Package>
