@@ -7627,9 +7627,6 @@
         <layout>CollaborationGroup-Group Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>CommSubscription-Communication Subscription Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>CommSubscriptionChannelType-Communication Subscription Channel Type Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
