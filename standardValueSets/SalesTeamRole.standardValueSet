@@ -36,4 +36,9 @@
         <default>false</default>
         <label>Sales Rep</label>
     </standardValue>
+    <standardValue>
+        <fullName>Test</fullName>
+        <default>false</default>
+        <label>Test</label>
+    </standardValue>
 </StandardValueSet>
