@@ -9696,10 +9696,6 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>ForgotPassword</apexPage>
-        <enabled>false</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>ForgotPasswordConfirm</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
