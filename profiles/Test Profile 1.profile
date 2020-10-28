@@ -7588,10 +7588,6 @@
         <recordType>Account.Business</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Account-Account Layout</layout>
-        <recordType>Account.Test</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Asset-Asset Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
