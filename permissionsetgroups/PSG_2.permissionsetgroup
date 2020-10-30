@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>PSG_2</label>
+    <mutingPermissionSets>Copado_Developer_Muted</mutingPermissionSets>
+    <permissionSets>copado__Branch_Management_Permissions_Manage</permissionSets>
+    <permissionSets>copado__Branch_Management_Permissions_View</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>
