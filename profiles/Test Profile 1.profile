@@ -9676,10 +9676,6 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>CommunitiesSelfReg</apexPage>
-        <enabled>false</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>CommunitiesSelfRegConfirm</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
