@@ -9632,10 +9632,6 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>IdeasHome</apexPage>
-        <enabled>false</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>InMaintenance</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
