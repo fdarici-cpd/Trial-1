@@ -182,10 +182,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>SiteRegisterControllerTest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SurveyController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
