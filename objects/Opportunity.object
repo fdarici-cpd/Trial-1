@@ -274,6 +274,7 @@
     </fields>
     <fields>
         <fullName>Product__c</fullName>
+        <description>Test</description>
         <externalId>false</externalId>
         <label>Product</label>
         <required>false</required>
@@ -282,7 +283,7 @@
         <type>Picklist</type>
         <valueSet>
             <restricted>true</restricted>
-            <valueSetName>Product</valueSetName>
+            <valueSetName>Product_1</valueSetName>
         </valueSet>
     </fields>
     <fields>
@@ -377,6 +378,64 @@
         </filters>
         <label>Won</label>
     </listViews>
+    <recordTypes>
+        <fullName>RT_1</fullName>
+        <active>true</active>
+        <businessProcess>SP1</businessProcess>
+        <label>RT 1</label>
+        <picklistValues>
+            <picklist>Product__c</picklist>
+            <values>
+                <fullName>P1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P4</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P5</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>RT_2</fullName>
+        <active>true</active>
+        <businessProcess>SP1</businessProcess>
+        <label>RT 2</label>
+        <picklistValues>
+            <picklist>Product__c</picklist>
+            <values>
+                <fullName>P1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P4</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>P5</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>OPPORTUNITY.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
