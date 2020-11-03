@@ -9712,10 +9712,6 @@
         <enabled>true</enabled>
     </pageAccesses>
     <pageAccesses>
-        <apexPage>SiteRegisterConfirm</apexPage>
-        <enabled>false</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SiteTemplate</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
