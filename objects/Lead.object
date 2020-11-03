@@ -307,10 +307,6 @@
         <type>Picklist</type>
     </fields>
     <fields>
-        <fullName>Jigsaw</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
         <fullName>LastTransferDate</fullName>
     </fields>
     <fields>
