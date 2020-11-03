@@ -9712,10 +9712,6 @@
         <enabled>true</enabled>
     </pageAccesses>
     <pageAccesses>
-        <apexPage>StdExceptionTemplate</apexPage>
-        <enabled>false</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SurveyPage</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
