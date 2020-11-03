@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>A2__c</members>
-        <name>CustomObject</name>
+        <members>copado__Copado/copado__Copado_Dashboard</members>
+        <name>Dashboard</name>
     </types>
     <version>48.0</version>
 </Package>
