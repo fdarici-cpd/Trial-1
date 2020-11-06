@@ -179,6 +179,7 @@
     </fields>
     <fields>
         <fullName>EventSubtype</fullName>
+        <description>EventSubtype</description>
     </fields>
     <fields>
         <fullName>IsAllDayEvent</fullName>
@@ -224,6 +225,6 @@
         <fullName>WhoId</fullName>
         <type>Lookup</type>
     </fields>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>Private</sharingModel>
 </CustomObject>
