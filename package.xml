@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Campaign.Name</members>
-        <members>Contact.Name</members>
-        <members>Opportunity.Brand__c</members>
-        <members>Opportunity.CurrencyIsoCode</members>
-        <members>Opportunity.Product__c</members>
-        <members>Opportunity.Sales_Value__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Product</members>
-        <name>GlobalValueSet</name>
-    </types>
-    <types>
-        <members>Opportunity-Opportunity Layout</members>
-        <name>Layout</name>
+        <members>Contact</members>
+        <name>CustomObject</name>
     </types>
     <version>49.0</version>
 </Package>
