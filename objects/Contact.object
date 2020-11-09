@@ -361,6 +361,7 @@ CASE( Dreamforce__c,
     <fields>
         <fullName>Department</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
     </fields>
     <fields>
         <fullName>Description</fullName>
@@ -396,6 +397,7 @@ CASE( Dreamforce__c,
     <fields>
         <fullName>Email</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
     </fields>
     <fields>
         <fullName>Fax</fullName>
@@ -503,6 +505,7 @@ CASE( Dreamforce__c,
     <fields>
         <fullName>Title</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
     </fields>
     <listViews>
         <fullName>AllContacts</fullName>
@@ -552,18 +555,18 @@ CASE( Dreamforce__c,
     <profileSearchLayouts>
         <fields>FULL_NAME</fields>
         <fields>ACCOUNT.NAME</fields>
-        <fields>ACCOUNT.OWNER.FIRST_NAME</fields>
-        <fields>ACCOUNT.OWNER.LAST_NAME</fields>
-        <profileName>System Administrator</profileName>
+        <fields>ACCOUNT.SITE</fields>
+        <profileName>Solution Manager</profileName>
     </profileSearchLayouts>
     <profileSearchLayouts>
         <fields>FULL_NAME</fields>
         <fields>ACCOUNT.NAME</fields>
-        <fields>ACCOUNT.SITE</fields>
-        <profileName>Solution Manager</profileName>
+        <fields>ACCOUNT.OWNER.FIRST_NAME</fields>
+        <fields>ACCOUNT.OWNER.LAST_NAME</fields>
+        <profileName>System Administrator</profileName>
     </profileSearchLayouts>
     <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
-    <recordTypeTrackHistory>true</recordTypeTrackHistory>
+    <recordTypeTrackHistory>false</recordTypeTrackHistory>
     <recordTypes>
         <fullName>Business</fullName>
         <active>true</active>
