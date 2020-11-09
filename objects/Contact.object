@@ -325,7 +325,7 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
-    <enableHistory>false</enableHistory>
+    <enableHistory>true</enableHistory>
     <externalSharingModel>ControlledByParent</externalSharingModel>
     <fields>
         <fullName>AccountId</fullName>
@@ -549,7 +549,21 @@ CASE( Dreamforce__c,
         </filters>
         <label>New This Week</label>
     </listViews>
+    <profileSearchLayouts>
+        <fields>FULL_NAME</fields>
+        <fields>ACCOUNT.NAME</fields>
+        <fields>ACCOUNT.OWNER.FIRST_NAME</fields>
+        <fields>ACCOUNT.OWNER.LAST_NAME</fields>
+        <profileName>System Administrator</profileName>
+    </profileSearchLayouts>
+    <profileSearchLayouts>
+        <fields>FULL_NAME</fields>
+        <fields>ACCOUNT.NAME</fields>
+        <fields>ACCOUNT.SITE</fields>
+        <profileName>Solution Manager</profileName>
+    </profileSearchLayouts>
     <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
+    <recordTypeTrackHistory>true</recordTypeTrackHistory>
     <recordTypes>
         <fullName>Business</fullName>
         <active>true</active>
