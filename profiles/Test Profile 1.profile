@@ -130,10 +130,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>CommunitiesLoginController</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>CommunitiesLoginControllerTest</apexClass>
         <enabled>false</enabled>
     </classAccesses>
