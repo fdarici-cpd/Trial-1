@@ -186,7 +186,7 @@
                 <value>
                     <fullName>Metal Enclosed - HVL/HVLcc</fullName>
                     <default>false</default>
-                    <label>Metal Enclosed - HVL/HVLcc</label>
+                    <label>Metal Enclosed - HVL / HVLcc</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
