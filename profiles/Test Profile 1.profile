@@ -9660,10 +9660,6 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>CommunitiesLanding</apexPage>
-        <enabled>false</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>CommunitiesLogin</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
