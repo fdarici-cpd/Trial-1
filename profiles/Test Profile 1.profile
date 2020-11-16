@@ -130,10 +130,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>CommunitiesSelfRegConfirmController</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>CommunitiesSelfRegConfirmControllerTest</apexClass>
         <enabled>false</enabled>
     </classAccesses>
