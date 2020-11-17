@@ -5,7 +5,6 @@
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>Flexipage_Test_App_UtilityBar</members>
         <members>Test</members>
         <name>FlexiPage</name>
     </types>
