@@ -45,7 +45,7 @@
                 <sorted>false</sorted>
                 <value>
                     <fullName>Metal Enclosed - HVL/HVLcc</fullName>
-                    <default>false</default>
+                    <default>true</default>
                     <label>Metal Enclosed - HVL/HVLcc</label>
                 </value>
             </valueSetDefinition>
