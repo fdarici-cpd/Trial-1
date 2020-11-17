@@ -156,6 +156,7 @@
     <fields>
         <fullName>F10__c</fullName>
         <defaultValue>false</defaultValue>
+        <description>F10</description>
         <externalId>false</externalId>
         <label>F10</label>
         <trackTrending>false</trackTrending>
