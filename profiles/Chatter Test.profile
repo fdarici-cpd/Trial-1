@@ -7600,10 +7600,6 @@
         <layout>A1__c-A1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>A1__c-A1 Layout</layout>
-        <recordType>A1__c.RT1</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>A2__c-A2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
